@@ -1,8 +1,9 @@
-Name : Yohanes Teguh Ukur Ginting
-
+# Computer Graphic Task 3 - Computer Graphic - A
+Name : Yohanes Teguh Ukur Ginting<br>
 NRP : 5025211179
 
-# Computer Graphic Task 3
+
+### Problem
 - Drawing a 2-D square
 - Show another side of the 3d cube
 
